@@ -25,7 +25,7 @@
 <li>Office and supplies</li>
 <li>Marketing and sales</li>
 </ul></ul>
-- Cost of logistics for waranty claims.
+- Cost of logistics for waranty claims</br>
 <h3>Manufacturer</h3>
 -Cost of raw material</br>
 -cost of production</br>
@@ -39,5 +39,12 @@
 <h3>Retail Stores</h3>
 - Cost of Chairs to be paid to distributer</br>
 - Salaries</br>
-- Logistics cost if free delivery.</br>
+- Logistics cost if free delivery</br>
 - warehousing costs</br>
+
+
+	
+
+
+
+
