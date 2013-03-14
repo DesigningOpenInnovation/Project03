@@ -14,9 +14,9 @@
 <h3>Customer</h3>
 -Purchase of Chair</br>
 -Purchase of Spare parts</br>
--Item Delivery costs
+-Item Delivery costs</br>
 -Purchase of After waranty services</br>
--Costs of logistic after waranty
+-Costs of logistic after waranty</br>
 <h3>Company</h3>
 -Cost of chair manufacturing and spare parts</br>
 -Operational costs</br>
