@@ -1,3 +1,10 @@
+<h1>Revenue Streams</h1>
+<h3>Company</h3>
+- Sale of Chair</br>
+- Spare Parts</br>
+- Post Waranty Services</br>
+- Brand royalities for white labeling</br>
+<h3>Distributer</h3>
 - Sale of Chair</br>
 <h3>Retail Stores</h3>
 - Sale of Chair</br>
@@ -34,9 +41,3 @@
 - Salaries</br>
 - Logistics cost if free delivery.</br>
 - warehousing costs</br>
-
-	
-
-
-
-
